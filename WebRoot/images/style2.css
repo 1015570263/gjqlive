@@ -1,0 +1,67 @@
+BODY {
+	FONT-SIZE: 8px; BACKGROUND-IMAGE: url(..../images/bg.gif); MARGIN: 0px; COLOR: #333333; LINE-HEIGHT: 150%; FONT-FAMILY: Verdana,Arial,sans-serif
+}
+TD
+{
+    FONT-SIZE: 11px;
+}
+.menuline {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.content {
+	FONT-SIZE: 12px; COLOR: #4a4a4a; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.leftproducts {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: #212121; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.aboutus {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: #3d8d58; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.green {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #3d8d58; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.menu:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.menu:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.menu:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.menu:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.menu:unknown {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #3d8d58; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.cpdl:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.cpdl:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.cpdl:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #3d8d58; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.cpdl:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.cpdl:unknown {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.cpxl:link {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.cpxl:visited {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.cpxl:hover {
+	FONT-SIZE: 12px; COLOR: #3d8d58; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.cpxl:active {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.cpxl:unknown {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}

@@ -1,0 +1,159 @@
+SELECT {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 150%
+}
+A:link {
+	FONT-SIZE: 12px; COLOR: #000066; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: #000066; TEXT-DECORATION: underline
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: #ff0000; TEXT-DECORATION: underline
+}
+.font1 {
+	FONT: 12px/150% "宋体"; COLOR: #333333
+}
+.font2 {
+	FONT: 11px/170% "Arial", "Helvetica", "sans-serif"; COLOR: #444444
+}
+.tnt {
+	WRITING-MODE: tb-rl; TEXT-ALIGN: center
+}
+A.link1:link {
+	FONT-SIZE: 12px; WIDTH: 148px; COLOR: #777777; PADDING-TOP: 8px; FONT-FAMILY: "宋体"; HEIGHT: 26px; TEXT-DECORATION: none
+}
+A.link1:visited {
+	FONT-SIZE: 12px; WIDTH: 148px; COLOR: #777777; PADDING-TOP: 8px; FONT-FAMILY: "宋体"; HEIGHT: 26px; TEXT-DECORATION: none
+}
+A.link1:hover {
+	FONT-SIZE: 12px; BACKGROUND-IMAGE: url(images/about/nav_over.gif); WIDTH: 148px; COLOR: #b08500; PADDING-TOP: 8px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: "宋体"; HEIGHT: 26px; TEXT-DECORATION: underline
+}
+A.link2:link {
+	FONT-SIZE: 12px; WIDTH: 148px; COLOR: #777777; PADDING-TOP: 8px; FONT-FAMILY: "宋体"; HEIGHT: 26px; TEXT-DECORATION: none
+}
+A.link2:visited {
+	FONT-SIZE: 12px; WIDTH: 148px; COLOR: #777777; PADDING-TOP: 8px; FONT-FAMILY: "宋体"; HEIGHT: 26px; TEXT-DECORATION: none
+}
+A.link2:hover {
+	FONT-SIZE: 12px; BACKGROUND-IMAGE: url(images/auto/nav_over_auto.gif); WIDTH: 148px; COLOR: #3399cc; PADDING-TOP: 8px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: "宋体"; HEIGHT: 26px; TEXT-DECORATION: underline
+}
+A.link3:link {
+	FONT-SIZE: 12px; WIDTH: 148px; COLOR: #777777; PADDING-TOP: 8px; FONT-FAMILY: "宋体"; HEIGHT: 26px; TEXT-DECORATION: none
+}
+A.link3:visited {
+	FONT-SIZE: 12px; WIDTH: 148px; COLOR: #777777; PADDING-TOP: 8px; FONT-FAMILY: "宋体"; HEIGHT: 26px; TEXT-DECORATION: none
+}
+A.link3:hover {
+	FONT-SIZE: 12px; BACKGROUND-IMAGE: url(images/other/nav_over_vino.gif); WIDTH: 148px; COLOR: #cc3300; PADDING-TOP: 8px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: "宋体"; HEIGHT: 26px; TEXT-DECORATION: underline
+}
+A.link4:link {
+	FONT-SIZE: 12px; WIDTH: 148px; COLOR: #777777; PADDING-TOP: 8px; FONT-FAMILY: "宋体"; HEIGHT: 26px; TEXT-DECORATION: none
+}
+A.link4:visited {
+	FONT-SIZE: 12px; WIDTH: 148px; COLOR: #777777; PADDING-TOP: 8px; FONT-FAMILY: "宋体"; HEIGHT: 26px; TEXT-DECORATION: none
+}
+A.link4:hover {
+	FONT-SIZE: 12px; BACKGROUND-IMAGE: url(images/other/nav_over_restaurant.gif); WIDTH: 148px; COLOR: #b08500; PADDING-TOP: 8px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: "宋体"; HEIGHT: 26px; TEXT-DECORATION: underline
+}
+A.link5:link {
+	PADDING-RIGHT: 15px; FONT-SIZE: 12px; WIDTH: 150px; COLOR: #ffffff; PADDING-TOP: 10px; FONT-FAMILY: "宋体"; HEIGHT: 30px; TEXT-DECORATION: none
+}
+A.link5:visited {
+	PADDING-RIGHT: 15px; FONT-SIZE: 12px; WIDTH: 150px; COLOR: #ffffff; PADDING-TOP: 10px; FONT-FAMILY: "宋体"; HEIGHT: 30px; TEXT-DECORATION: none
+}
+A.link5:hover {
+	PADDING-RIGHT: 15px; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(images/about/nav_over_about.jpg); WIDTH: 150px; COLOR: #ffffff; PADDING-TOP: 10px; BACKGROUND-REPEAT: repeat-y; FONT-FAMILY: "宋体"; HEIGHT: 30px; TEXT-DECORATION: none
+}
+A.link6:link {
+	FONT-SIZE: 12px; WIDTH: 148px; COLOR: #777777; PADDING-TOP: 8px; FONT-FAMILY: "宋体"; HEIGHT: 26px; TEXT-DECORATION: none
+}
+A.link6:visited {
+	FONT-SIZE: 12px; WIDTH: 148px; COLOR: #777777; PADDING-TOP: 8px; FONT-FAMILY: "宋体"; HEIGHT: 26px; TEXT-DECORATION: none
+}
+A.link6:hover {
+	FONT-SIZE: 12px; BACKGROUND-IMAGE: url(images/other/nav_over_upholster.gif); WIDTH: 148px; COLOR: #b165b1; PADDING-TOP: 8px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: "宋体"; HEIGHT: 26px; TEXT-DECORATION: underline
+}
+.t1 {
+	FONT: 12px 宋体; COLOR: #000000
+}
+.t2 {
+	FONT: 12px 宋体; COLOR: #ffffff
+}
+.bt1 {
+	FONT: 14px 宋体; COLOR: #000000
+}
+.bt2 {
+	FONT: 14px 宋体; COLOR: #ffffff
+}
+A.a01:link {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.a01:visited {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.a01:hover {
+	FONT-SIZE: 12px; COLOR: #006600; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+A.a02:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.a02:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.a02:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+A.a11:link {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: underline
+}
+A.a11:visited {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: underline
+}
+A.a11:hover {
+	FONT-SIZE: 11px; COLOR: #00a636; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+A.a12:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: underline
+}
+A.a12:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: underline
+}
+A.a12:hover {
+	FONT-SIZE: 12px; COLOR: #ff6600; TEXT-DECORATION: none
+}
+INPUT {
+	FONT-SIZE: 12px; COLOR: #000000
+}
+.input1 {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #000000 1px solid; COLOR: #000000; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: "宋体"; BACKGROUND-COLOR: #ffffff
+}
+.font3 {
+	FONT-SIZE: 15px; COLOR: #000000; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}
+.shadow {
+	FONT-SIZE: 12px; FILTER: DropShadow(Color=#AE6D00, OffX=1, OffY=1); COLOR: #ffffff; LINE-HEIGHT: 150%; FONT-FAMILY: "宋体"
+}
+.shadow2 {
+	FONT-SIZE: 12px; FILTER: DropShadow(Color=#007325, OffX=1, OffY=1); COLOR: #ffffff; LINE-HEIGHT: 150%; FONT-FAMILY: "宋体"
+}
+.shadow3 {
+	FONT-SIZE: 12px; FILTER: DropShadow(Color=#007B7B, OffX=1, OffY=1); COLOR: #ffffff; LINE-HEIGHT: 150%; FONT-FAMILY: "宋体"
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #222222
+}
+.tnt {
+	VERTICAL-ALIGN: middle; LETTER-SPACING: 3px
+}
+.input2 {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #000000 1px solid; COLOR: #000000; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: "宋体"
+}
+BODY {
+	FONT-SIZE: 12px; COLOR: #222222; LINE-HEIGHT: 150%; FONT-FAMILY: "宋体"
+}
+P {
+	
+}
+P {
+	FONT-SIZE: 12px; COLOR: #000000
+}

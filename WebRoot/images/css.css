@@ -1,0 +1,15 @@
+A:link {
+	COLOR: #000000; FONT-FAMILY: ËÎÌו; TEXT-DECORATION: none
+	}
+A:visited {
+	COLOR: #000000; FONT-FAMILY: ËÎÌו; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #0033cc; FONT-FAMILY: ËÎÌו; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #0033cc; TEXT-DECORATION: underline
+	}
+.div1{
+   margin:3em 3em 4em 3em 
+}

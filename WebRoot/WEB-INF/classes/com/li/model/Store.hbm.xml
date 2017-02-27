@@ -1,0 +1,15 @@
+<?xml version="1.0"?><!DOCTYPE hibernate-mapping PUBLIC  "-//Hibernate/Hibernate Mapping DTD 3.0//EN"  
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.li.entity"> 
+<class name="Store" table="store">  
+<id name="sid" type="int" column="SID">  </id> 
+<property name="px" type="int" column="PX"/> 
+<property name="lid" type="int" column="LID"/>
+<property name="summ" type="int" column="SUMM"/>
+<property name="tj" type="string" column="TJ"/> 
+<property name="storename" type="string" column="STORENAME"/> 
+<property name="address" type="string" column="ADDRESS"/> 
+<property name="context" type="string" column="CONTEXT"/>
+<property name="photo" type="string" column="PHOTO"/>
+</class>
+</hibernate-mapping>

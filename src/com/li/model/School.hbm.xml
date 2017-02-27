@@ -1,0 +1,15 @@
+<?xml version="1.0"?><!DOCTYPE hibernate-mapping PUBLIC  "-//Hibernate/Hibernate Mapping DTD 3.0//EN"  
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.li.entity"> 
+<class name="School" table="school">  
+<id name="sid" type="int" column="SID">  </id> 
+<property name="px" type="int" column="PX"/> 
+<property name="tj" type="string" column="TJ"/> 
+ <property name="name" type="string" column="NAME"/> 
+ <property name="saddress" type="string" column="SADDRESS"/> 
+ <property name="baddress" type="string" column="BADDRESS"/>
+ <property name="laddress" type="string" column="LADDRESS"/>
+ <property name="content" type="string" column="SCONTENT"/>
+ <property name="sic" type="string" column="SIC"/>
+ </class>
+ </hibernate-mapping>
